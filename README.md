@@ -4,7 +4,7 @@
 ## CodeIgniter4
 
 ## Welcome to CodeIgniter4
-CodeIgniter4 merupakan sebuah framework PHP yang digunakan untuk membangun website maupun aplikasi. Tujuannya agar dapat mengembangkan proyek jauh lebih cepat daripada harus menulis kode dari awal. 
+CodeIgniter4 merupakan sebuah framework PHP yang digunakan untuk membangun situs web. Tujuannya agar dapat mengembangkan proyek jauh lebih cepat daripada harus menulis kode dari awal. 
 
 ### Persyaratan Server 
 
